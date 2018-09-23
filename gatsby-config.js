@@ -28,6 +28,7 @@ module.exports = {
       github: 'RogerTerrill',
     },
   },
+  pathPrefix: '/RogerTerrill-React/portfolioStarter',
   plugins: [
     {
       resolve: 'gatsby-source-filesystem',
